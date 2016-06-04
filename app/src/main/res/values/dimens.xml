@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="city">60dp</dimen>
+    <dimen name="temp">50dp</dimen>
+    <dimen name="day">40dp</dimen>
+    <dimen name="weather">30dp</dimen>
+    <dimen name="month">40dp</dimen>
+    <dimen name="date">40dp</dimen>
+    <dimen name="tomorrow">40dp</dimen>
+    <dimen name="tomorrowTemp">25dp</dimen>
+</resources>
